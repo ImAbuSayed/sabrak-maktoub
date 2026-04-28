@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك
+> في عيوني شفت حلاك
+> روحي دايماً تستناك
+> و الشوق بياخدني لهواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
