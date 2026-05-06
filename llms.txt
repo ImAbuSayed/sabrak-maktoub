@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sabrak-maktoub/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Sabrak Maktoub](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
